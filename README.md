@@ -1,2 +1,2 @@
 # C-SharedMemoryExample
-Homework
+An example of shared memory in multithreading
